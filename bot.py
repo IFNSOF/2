@@ -141,7 +141,7 @@ def button_handler(update: Update, context: CallbackContext):
 # Основная функция запуска бота
 def main():
     # Замените токен на свой от BotFather
-    TOKEN = "ВАШ_ТОКЕН_ТЕЛЕГРАМ_БОТА"
+    TOKEN = "7288195056:AAH7m4eA-yrlwBF5fi-JYLZ-sIwreY6qVZo"
 
     updater = Updater(TOKEN, use_context=True)
     dp = updater.dispatcher
